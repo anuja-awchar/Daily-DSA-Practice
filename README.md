@@ -11,7 +11,7 @@ This repository tracks my daily DSA journey. Each day I solve at least one probl
 ## Topics Covered
 
 ### Arrays
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
@@ -179,7 +179,7 @@ This repository tracks my daily DSA journey. Each day I solve at least one probl
 - [ ] Grumpy Bookstore Owner
 
 ### Two Pointers
-- [ ] Two Sum II
+- [x] Two Sum II
 - [ ] Valid Palindrome II
 - [ ] 3Sum
 - [ ] Container With Most Water
