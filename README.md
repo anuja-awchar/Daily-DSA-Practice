@@ -12,7 +12,7 @@ This repository tracks my daily DSA journey. Each day I solve at least one probl
 
 ### Arrays
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray (Kadane's Algorithm)
