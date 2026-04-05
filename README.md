@@ -14,7 +14,7 @@ This repository tracks my daily DSA journey. Each day I solve at least one probl
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Maximum Subarray (Kadane's Algorithm)
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
