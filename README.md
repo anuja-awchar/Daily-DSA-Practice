@@ -19,7 +19,7 @@ This repository tracks my daily DSA journey. Each day I solve at least one probl
 - [x] Find Minimum in Rotated Sorted Array
 - [x] Search in Rotated Sorted Array
 - [x] 3Sum
-- [ ] Container With Most Water
+- [x] Container With Most Water
 - [ ] Merge Intervals
 
 ### Linked Lists
