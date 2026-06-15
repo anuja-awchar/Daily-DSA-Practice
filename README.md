@@ -22,6 +22,13 @@ This repository tracks my daily DSA journey. Each day I solve at least one probl
 - [x] Container With Most Water
 - [ ] Merge Intervals
 
+### Math
+- [x] Is Palindrome
+- [x] Happy Number
+- [x] Power Of Two
+- [x] Power Of Three
+- [x] Power Of Four
+
 ### Linked Lists
 - [ ] Reverse Linked List
 - [ ] Detect Cycle in Linked List
